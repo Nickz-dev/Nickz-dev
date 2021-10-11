@@ -1,13 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 <h2> Hey there! I'm Nick.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Studying new technologies and developing software solutions.
-- 🎓 &nbsp; Self-education and continuous development
-- 💼 &nbsp; Freelancer | Affilite 
-- ✍️ &nbsp; I do graphic design and writing as a hobby/ part-time job.
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
