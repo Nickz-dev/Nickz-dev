@@ -36,5 +36,6 @@
 <a href="https://on-change.org"> <img alt="Website" src="https://img.shields.io/badge/Website-ВАВАДА КАЗИНО-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:nick.apios@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nick.apios@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
+[ВАВАДА КАЗИНО) [https://on-change/ru/]
+[VAVADA CASINO) [https://x-vavada.ru/ru/]
 ⭐️ From [Nickz](https://github.com/Nickz-dev)
