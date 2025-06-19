@@ -32,8 +32,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="x-vavada.ru/ru/"> <img alt="Website" src="https://img.shields.io/badge/Website-VAVADA CASINO-blue?style=flat-square&logo=google-chrome"></a>
-<a href="on-change.org/ru/"> <img alt="Website" src="https://img.shields.io/badge/Website-ВАВАДА КАЗИНО-blue?style=flat-square&logo=google-chrome"></a>
+<a href="x-vavada.ru/ru/"> Vavada casino </a>
+<a href="https://on-change.org/ru/"> Vavada casino </a>
 <a href="mailto:nick.apios@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nick.apios@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 ⭐️ From [Nickz](https://github.com/Nickz-dev)
