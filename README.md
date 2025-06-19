@@ -22,7 +22,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-<a href="https://x-vavada.ru> Vavada online casino </a>
 <a href="https://github.com/Nickz-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nickz-dev&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickz-dev&theme=buefy&layout=compact" />
@@ -33,7 +32,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.nickz.net/"><img alt="Website" src="https://img.shields.io/badge/Website-www.nickz.net-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://x-vavada.ru/"> VAVADA CASINO <img alt="Website" src="https://img.shields.io/badge/Website-www.nickz.net-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:nick.apios@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nick.apios@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
