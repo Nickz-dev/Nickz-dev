@@ -32,9 +32,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="x-vavada.ru/ru/"> Vavada casino </a>
-</p>
-<p align="center">
+<a href="https://x-vavada.ru/ru/"> Vavada casino </a> &and
 <a href="https://on-change.org/ru/"> Vavada casino </a>
   </p>
 <a href="mailto:nick.apios@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nick.apios@gmail.com-blue?style=flat-square&logo=gmail"></a>
